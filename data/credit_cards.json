@@ -1,0 +1,222 @@
+[
+    {
+      "name": "HDFC Regalia",
+      "issuer": "HDFC Bank",
+      "joining_fee": "₹2500",
+      "annual_fee": "₹2500",
+      "reward_type": "Reward Points",
+      "reward_rate": "4 points per ₹150",
+      "eligibility": "Minimum income ₹1 Lakh/month",
+      "special_perks": ["Lounge Access (Domestic & International)", "Dining Offers", "Air Travel Insurance"],
+      "apply_link": "https://apply.hdfc.com/regalia"
+    },
+    {
+      "name": "SBI SimplyCLICK",
+      "issuer": "SBI Card",
+      "joining_fee": "₹499",
+      "annual_fee": "₹499",
+      "reward_type": "Reward Points",
+      "reward_rate": "10X points on online spends",
+      "eligibility": "Minimum income ₹20,000/month",
+      "special_perks": ["Amazon Voucher on joining", "Online Shopping Offers"],
+      "apply_link": "https://apply.sbicard.com/simplyclick"
+    },
+    {
+      "name": "ICICI Amazon Pay Card",
+      "issuer": "ICICI Bank",
+      "joining_fee": "₹0",
+      "annual_fee": "₹0",
+      "reward_type": "Amazon Pay Cashback",
+      "reward_rate": "5% back for Prime members",
+      "eligibility": "Must have Amazon & ICICI relationship",
+      "special_perks": ["No expiry on rewards", "Instant approval via Amazon"],
+      "apply_link": "https://amazon.in/icici"
+    },
+    {
+      "name": "Axis Bank Flipkart Card",
+      "issuer": "Axis Bank",
+      "joining_fee": "₹500",
+      "annual_fee": "₹500",
+      "reward_type": "Cashback",
+      "reward_rate": "5% on Flipkart & Myntra",
+      "eligibility": "Minimum income ₹25,000/month",
+      "special_perks": ["Welcome Bonus ₹500 Flipkart voucher", "1.5% unlimited cashback"],
+      "apply_link": "https://axisbank.com/flipkart"
+    },
+    {
+      "name": "HDFC Millennia",
+      "issuer": "HDFC Bank",
+      "joining_fee": "₹1000",
+      "annual_fee": "₹1000",
+      "reward_type": "Cashback",
+      "reward_rate": "5% on Amazon, Flipkart, Swiggy",
+      "eligibility": "Income ₹35,000+ per month",
+      "special_perks": ["Airport Lounge Access", "Fuel Surcharge Waiver"],
+      "apply_link": "https://hdfcbank.com/millennia"
+    },
+    {
+      "name": "SBI Prime",
+      "issuer": "SBI Card",
+      "joining_fee": "₹2999",
+      "annual_fee": "₹2999",
+      "reward_type": "Reward Points",
+      "reward_rate": "10 points per ₹100 on dining & groceries",
+      "eligibility": "Income above ₹50,000/month",
+      "special_perks": ["Lounge Access", "Club Vistara Membership", "Trident Privilege"],
+      "apply_link": "https://sbicard.com/prime"
+    },
+    {
+      "name": "American Express SmartEarn",
+      "issuer": "American Express",
+      "joining_fee": "₹495",
+      "annual_fee": "₹495",
+      "reward_type": "Membership Rewards",
+      "reward_rate": "10X on Amazon & Flipkart",
+      "eligibility": "Income ₹4.5L+ annually",
+      "special_perks": ["Movie & Dining Offers", "Amex Privileges"],
+      "apply_link": "https://amex.co.in/smartearn"
+    },
+    {
+      "name": "AU LIT Card",
+      "issuer": "AU Small Finance Bank",
+      "joining_fee": "₹0",
+      "annual_fee": "₹0",
+      "reward_type": "Cashback",
+      "reward_rate": "Up to 5% cashback",
+      "eligibility": "Minimum ₹25,000/month income",
+      "special_perks": ["Customizable Benefits", "Zero Joining/Annual Fee"],
+      "apply_link": "https://aubank.in/litcard"
+    },
+    {
+      "name": "IndusInd Legend Card",
+      "issuer": "IndusInd Bank",
+      "joining_fee": "₹999",
+      "annual_fee": "₹0 (Lifetime Free)",
+      "reward_type": "Reward Points",
+      "reward_rate": "1.5 points per ₹100",
+      "eligibility": "Income ₹40,000+/month",
+      "special_perks": ["Concierge Services", "Golf Access", "Travel Insurance"],
+      "apply_link": "https://indusind.com/legend"
+    },
+    {
+      "name": "IDFC FIRST Wealth",
+      "issuer": "IDFC FIRST Bank",
+      "joining_fee": "₹0",
+      "annual_fee": "₹0",
+      "reward_type": "Reward Points",
+      "reward_rate": "6X on online spends",
+      "eligibility": "Income above ₹50,000/month",
+      "special_perks": ["Free Railway & Airport Lounge Access", "Movie Offers"],
+      "apply_link": "https://idfcfirstbank.com/wealthcard"
+    },
+    {
+      "name": "Kotak Royale Signature",
+      "issuer": "Kotak Mahindra Bank",
+      "joining_fee": "₹999",
+      "annual_fee": "₹999",
+      "reward_type": "Reward Points",
+      "reward_rate": "2X points on travel & dining",
+      "eligibility": "Income ₹24,000/month",
+      "special_perks": ["Travel Insurance", "Fuel Surcharge Waiver"],
+      "apply_link": "https://kotak.com/royale"
+    },
+    {
+      "name": "YES Prosperity Edge",
+      "issuer": "YES Bank",
+      "joining_fee": "₹399",
+      "annual_fee": "₹399",
+      "reward_type": "Reward Points",
+      "reward_rate": "4 points per ₹200",
+      "eligibility": "Salaried ₹25,000+, Self-employed ₹5L ITR",
+      "special_perks": ["Fuel Waiver", "Dining Discounts"],
+      "apply_link": "https://yesbank.in/edge"
+    },
+    {
+      "name": "HSBC Cashback Card",
+      "issuer": "HSBC Bank",
+      "joining_fee": "₹0",
+      "annual_fee": "₹0",
+      "reward_type": "Cashback",
+      "reward_rate": "1.5% on online spends",
+      "eligibility": "Minimum income ₹4L per annum",
+      "special_perks": ["EMI on purchases", "Lounge Access"],
+      "apply_link": "https://hsbc.co.in/cashbackcard"
+    },
+    {
+      "name": "RBL Bank Shoprite Card",
+      "issuer": "RBL Bank",
+      "joining_fee": "₹500",
+      "annual_fee": "₹500",
+      "reward_type": "Reward Points",
+      "reward_rate": "5% on groceries & fuel",
+      "eligibility": "Monthly income ₹20,000+",
+      "special_perks": ["Fuel Surcharge Waiver", "Movie Tickets"],
+      "apply_link": "https://rblbank.com/shoprite"
+    },
+    {
+      "name": "Standard Chartered Platinum",
+      "issuer": "Standard Chartered Bank",
+      "joining_fee": "₹0",
+      "annual_fee": "₹250 (Waived on spend)",
+      "reward_type": "Reward Points",
+      "reward_rate": "5X on dining, hotels",
+      "eligibility": "Income ₹6L per annum",
+      "special_perks": ["Instant EMI", "Offers on Zomato, Grofers"],
+      "apply_link": "https://sc.com/in/platinum"
+    },
+    {
+      "name": "Bank of Baroda Eterna",
+      "issuer": "BOB Financial",
+      "joining_fee": "₹2499",
+      "annual_fee": "₹2499",
+      "reward_type": "Reward Points",
+      "reward_rate": "15 points per ₹100 on online shopping",
+      "eligibility": "Income above ₹12L annually",
+      "special_perks": ["Lounge Access", "Fitness Membership"],
+      "apply_link": "https://bobfinancial.com/eterna"
+    },
+    {
+      "name": "ICICI Coral Contactless",
+      "issuer": "ICICI Bank",
+      "joining_fee": "₹500",
+      "annual_fee": "₹500",
+      "reward_type": "Reward Points",
+      "reward_rate": "2 points per ₹100",
+      "eligibility": "Income ₹25,000+/month",
+      "special_perks": ["Movie BOGO Offers", "Railway Lounge Access"],
+      "apply_link": "https://icicibank.com/coral"
+    },
+    {
+      "name": "AU Zenith+ Card",
+      "issuer": "AU Small Finance Bank",
+      "joining_fee": "₹4999",
+      "annual_fee": "₹4999",
+      "reward_type": "Cashback & Points",
+      "reward_rate": "Up to 20% cashback on brands",
+      "eligibility": "High net worth individuals",
+      "special_perks": ["Luxury Lounge", "Golf Access", "Concierge"],
+      "apply_link": "https://aubank.in/zenith"
+    },
+    {
+      "name": "YES Private Credit Card",
+      "issuer": "YES Bank",
+      "joining_fee": "₹4999",
+      "annual_fee": "₹4999",
+      "reward_type": "Reward Points",
+      "reward_rate": "10 points per ₹100",
+      "eligibility": "Invitation Only",
+      "special_perks": ["Luxury Travel", "Global Lounge Access", "Golf Access"],
+      "apply_link": "https://yesbank.in/privatecard"
+    },
+    {
+      "name": "IndusInd Pioneer Legacy",
+      "issuer": "IndusInd Bank",
+      "joining_fee": "₹0",
+      "annual_fee": "₹0",
+      "reward_type": "Reward Points",
+      "reward_rate": "2 points per ₹100",
+      "eligibility": "High Net Worth Clients",
+      "special_perks": ["Concierge Service", "Flight Insurance"],
+      "apply_link": "https://indusind.com/pioneer"
+    }
+  ]

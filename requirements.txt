@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-text-splitters
+langchain-chroma
+chromadb
+langchain-huggingface
+huggingface-hub
