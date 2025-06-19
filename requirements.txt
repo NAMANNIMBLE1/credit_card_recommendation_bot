@@ -10,3 +10,5 @@ huggingface-hub
 langchain-fireworks
 langchain-groq
 sentence-transformers
+flask
+fastapi
