@@ -51,6 +51,7 @@ Display → Flask renders the response on the web interface.
 # Demo & UI interface
 
 📹 [Watch Demo Video](https://raw.githubusercontent.com/NAMANNIMBLE1/qa_chatbot/main/video/demo_video.mp4)
+![Demo Video](https://github.com/NAMANNIMBLE1/qa_chatbot/blob/main/video/demo_video.gif?raw=true)
 
 
 
