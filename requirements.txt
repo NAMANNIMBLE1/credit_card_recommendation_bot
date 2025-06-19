@@ -7,3 +7,6 @@ langchain-chroma
 chromadb
 langchain-huggingface
 huggingface-hub
+langchain-fireworks
+langchain-groq
+sentence-transformers

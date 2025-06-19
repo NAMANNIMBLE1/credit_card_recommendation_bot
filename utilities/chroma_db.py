@@ -8,9 +8,6 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.documents import Document
 from utilities.get_data import get_credit_cards
 
-
-
-
 def format_card_to_document(card):
     """
     Converts a credit card dictionary to a LangChain Document.
@@ -28,12 +25,13 @@ def format_card_to_document(card):
     """
     return Document(page_content=content.strip(), metadata={"name": card['name']})
 
-def get_chroma_db(persist_directory: str = "chroma_db"):
+def get_chroma_db_as_retriever():
     """
     Creates or loads a Chroma database with credit card data.
     
     Args:
-        persist_directory (str): Directory to save/load Chroma DB.
+        # persist_directory (str): Directory to save/load Chroma DB.
+        persist_directory:str="chroma_db"
     
     Returns:
         Chroma: The Chroma database retriever instance.
@@ -43,7 +41,7 @@ def get_chroma_db(persist_directory: str = "chroma_db"):
 
     # Format to LangChain Documents
     documents = [format_card_to_document(card) for card in credit_cards]
-
+    # print(documents)
     # Initialize embeddings
     embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
@@ -51,7 +49,13 @@ def get_chroma_db(persist_directory: str = "chroma_db"):
     vectordb = Chroma.from_documents(
         documents=documents,
         embedding=embedding,
-        persist_directory=persist_directory  # comment out if not persisting
+        # persist_directory=persist_directory  # comment out if not persisting
     )
 
-    return vectordb
+    return vectordb.as_retriever(search_type = "similarity",kwargs={"k": 3})
+
+
+###################################################
+# retriver = get_chroma_db_as_retriever()
+# ans = retriver.invoke("credit card")
+# print(ans)
