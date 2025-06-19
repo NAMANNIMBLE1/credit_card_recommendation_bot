@@ -45,7 +45,6 @@ Display → Flask renders the response on the web interface.
 ![App Screenshot](https://github.com/NAMANNIMBLE1/qa_chatbot/blob/main/pictures/screenshot_19062025_141814.jpg)
 ![App Screenshot](https://raw.githubusercontent.com/NAMANNIMBLE1/qa_chatbot/main/pictures/screenshot_19062025_141904.jpg)
 ![App Screenshot](https://raw.githubusercontent.com/NAMANNIMBLE1/qa_chatbot/main/pictures/screenshot_19062025_141945.jpg)
-![App Screenshot](https://raw.githubusercontent.com/NAMANNIMBLE1/qa_chatbot/main/pictures/screenshot_19062025_141945.jpg)
                                                                                
 
 
